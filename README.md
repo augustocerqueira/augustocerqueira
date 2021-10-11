@@ -1,4 +1,4 @@
-### Olá Sou José Augusto Cerqueira
+### Olá Sou José Augusto Cerqueira.
 
 
 - Estou trabalhando como Aux Técnico.
