@@ -14,7 +14,7 @@ div style="display: inline_block"><br>
 
 <div>
   
-  <a href="https://instagram.com/augusto_2013" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/augusto_cerqueira2013" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contatojaacerqueira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://wwwhttps://www.linkedin.com/in/jos%C3%A9-augusto-cerqueira-5b333038?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFFj%2Bx8lYSVWnU2ZEwih6fQ%3D%3D." target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
